@@ -180,16 +180,16 @@ section {
 
 .portfolio-1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
-    url("/Portfolio_LandingPage/img/portfolio-1.jpg");
+    url("../img/portfolio-1.jpg");
 }
 .portfolio-2 {
-  background-image: url("/Portfolio_LandingPage/img/portfolio-2.jpg");
+  background-image: url("../img/portfolio-2.jpg");
 }
 .portfolio-3 {
-  background-image: url("/Portfolio_LandingPage/img/portfolio-3.jpg");
+  background-image: url("../img/portfolio-3.jpg");
 }
 .portfolio-4 {
-  background-image: url("/Portfolio_LandingPage/img/portfolio-4.jpg");
+  background-image: url("../img/portfolio-4.jpg");
 }
 
 .footer-container {
